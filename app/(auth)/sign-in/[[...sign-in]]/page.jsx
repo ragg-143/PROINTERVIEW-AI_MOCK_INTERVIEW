@@ -35,8 +35,7 @@ export default function Page() {
         <h3 className="mt-1 text-m font-bold text-white sm:text-l md:text-xl">Elevate Your Interview Game</h3>
 
         <p className="mt-4 leading-relaxed text-white/90">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eligendi nam dolorum aliquam,
-          quibusdam aperiam voluptatum.
+          
         </p>
       </div>
     </section>
