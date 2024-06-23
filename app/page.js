@@ -10,7 +10,7 @@ export default function Home() {
     router.push('/dashboard/')
   }
   return (
-   <div className="flex flex-col p-5 gap-5">
+   <div className="flex flex-col p-5 gap-5 justify-center items-center">
 
 
     <h2 className="text-bold text-5xl text-blue-700 ">Welcome to Pro-interview</h2>
